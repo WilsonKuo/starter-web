@@ -9,6 +9,7 @@
 
     my teachers
 	Obama
+	James
 
 # TECHNOLOGY COLOPHON
 
