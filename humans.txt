@@ -8,8 +8,10 @@
 # THANKS
 
     my teachers
+	Obama
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, C++ , Python, plsql
     jQuery, Modernizr
+	
